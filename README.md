@@ -22,5 +22,4 @@ The purpose is to see which month is best to sell ice cream and surfing boards b
 Overall, by checking the temperature of June and December we can see that, the number of samples was more than 1500 on both. We see that the min temperature is very low (56) in December compared to June (64). The maximum temperature in the other hand is very close to each other. The standard deviation is also very close to each other for both June and December which means they are not significantly different. So opening a surfing shake shop would be a good idea and will bring customers all year long , although some months may have less activities based on the temreture and the amount of precipitation of rain.
 
 ![image](https://user-images.githubusercontent.com/49285767/194217710-5eb0f1c8-f1a3-4860-ae26-734fd052f3d0.png)
-
 ![image](https://user-images.githubusercontent.com/49285767/194217743-98af0489-b11f-4f89-b196-2fb5861f5403.png)
