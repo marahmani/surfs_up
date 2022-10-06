@@ -10,7 +10,7 @@ The purpose is to see which month is best to sell ice cream and surfing boards b
 
 •	We can observe based on the plot is that some months have higher amounts of precipitation than others. We will have better Idea if we have more data regarding precipitation levels of rain in Hawaii to decide exactly the best location and month of the year to have this shop which we plan to sell ice cream as well.
 
-              ![image](https://user-images.githubusercontent.com/49285767/194214632-6bf59a7e-406c-4365-916e-819d2b546b2b.png)
+![image](https://user-images.githubusercontent.com/49285767/194214632-6bf59a7e-406c-4365-916e-819d2b546b2b.png)
 
 •	Comparing the two month June and December temperature, we can see that the temperature is better in June and we can see more activity around that time in Oaho and people are willing to spend more time during this time of the year in June.
 
