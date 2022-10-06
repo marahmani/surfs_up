@@ -7,6 +7,7 @@ The purpose is to see which month is best to sell ice cream and surfing boards b
 2-		Results:
 
 •	There are 9 active station sample data calculated in this project, If we can have more data in different locations we may know better about the best location to have this shop open.
+
 •	We can observe based on the plot is that some months have higher amounts of precipitation than others. We will have better Idea if we have more data regarding precipitation levels of rain in Hawaii to decide exactly the best location and month of the year to have this shop which we plan to sell ice cream as well.
 
               ![image](https://user-images.githubusercontent.com/49285767/194214632-6bf59a7e-406c-4365-916e-819d2b546b2b.png)
